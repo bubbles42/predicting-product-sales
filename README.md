@@ -9,6 +9,7 @@ The above heatmap shows us the correlation between the numeric columns. There ar
 
 ---
 
-![week3_projext_hist](https://github.com/bubbles42/predicting-product-sales/assets/115664524/3d5b24b2-6d05-4e0b-b0f5-10233db0511c)
+![week3_projext_hist](https://github.com/bubbles42/predicting-product-sales/assets/115664524/b1d1fd81-e813-4b2a-8026-44f1135f204a)
+
 
 
