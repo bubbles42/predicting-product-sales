@@ -11,5 +11,5 @@ The above heatmap shows us the correlation between the numeric columns. There ar
 
 ![week3_projext_hist](https://github.com/bubbles42/predicting-product-sales/assets/115664524/b1d1fd81-e813-4b2a-8026-44f1135f204a)
 
-
+Based on this graph, our items are priced in the 100-200 dollar range for the majority of items. No real correlation, though, between count and item price.
 
